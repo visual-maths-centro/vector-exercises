@@ -1,4 +1,4 @@
-# Actividad en clase: Vectores
+# Tarea 05. Operaciones de Vectores
 
 _Instrucciones_:
 
