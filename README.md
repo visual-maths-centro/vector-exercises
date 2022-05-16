@@ -2,7 +2,7 @@
 
 _Instrucciones_:
 
-Resuelve cada pregunta en papel (en tu cuaderno), sube las imágenes con tus respuestas (lo más nítidas posibles) a este repositorio.
+Resuelve cada pregunta en papel (en tu cuaderno) y sube las imágenes con tus respuestas (lo más nítidas posibles).
 
 **Vectores**
 
