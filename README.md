@@ -1,4 +1,4 @@
-# Tarea 05. Operaciones de Vectores
+# Operaciones de Vectores
 
 _Instrucciones_:
 
